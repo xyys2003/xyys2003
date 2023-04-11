@@ -1,6 +1,6 @@
 # Introduction
 
-Hello everyone, I'm a student studying at Beihang University, and my GitHub account is fzxl2003. I'm a computer science major who loves programming, enjoys using technology to solve real-world problems, and exploring new technologies.
+Hello everyone, I'm a student studying at Beihang University, and my GitHub account is xyys2003. I'm a computer science major who loves programming, enjoys using technology to solve real-world problems, and exploring new technologies.
 
 # Education
 
