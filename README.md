@@ -1,24 +1,70 @@
-# Introduction
+🛰️ About Me
 
-Hello everyone, I'm a student studying at Beihang University, and my GitHub account is xyys2003. I'm a computer science major who loves programming, enjoys using technology to solve real-world problems, and exploring new technologies.
+Hi, I'm Wu Junzhe, currently a Master’s student in Electronic Information (Artificial Intelligence) at Tsinghua University, Shenzhen International Graduate School (Tsinghua SIGS).
+I completed my Bachelor’s degree at Beihang University (BUAA), 2021–2025, majoring in Intelligent Flight Technology.
 
-# Education
+My interests lie in Embodied AI, 3D vision, 3D Gaussian Splatting, multimodal VLA models, and Real2Sim2Real robotic systems.
+I focus on how perception, language and actions can be unified to build agents capable of understanding, predicting and acting in complex environments.
 
-I'm currently pursuing a bachelor's degree and expected to graduate in 2025. During my studies, I've learned fundamental computer science courses such as data structures and algorithms, operating systems, computer networks, etc. I've also taken some application development-related courses such as web development, mobile app development, etc.
+🎓 Education
+Tsinghua University · SIGS (2025–Present)
 
-# Skills
+M.Eng. in Electronic Information (Artificial Intelligence)
+Current research themes:
 
-I'm proficient in multiple programming languages including Java, Python, C++, etc. I also have experience using various common development tools and frameworks such as Git, Django, Spring, etc. Through my studies, I have accumulated rich programming experience and can independently develop small projects and solve problems.
+Embodied AI and robotic manipulation
 
-# Project Experience
+Multimodal VLA models (π0 family, MiMo-Embodied, Qwen-VL, etc.)
 
-I have some project experience on GitHub, including the following:
+3DGS-based simulation and Real2Sim2Real pipelines
 
-- chathtml: This is a web application developed using the Django framework that can achieve chat. 
+Research projects and coursework in AI & robotics
 
-# Contact Information
+Beihang University (BUAA), School of Astronautics (2021–2025)
 
-If you're interested in me, feel free to contact me through the following ways:
+B.Eng. in Intelligent Flight Technology
+Focused on UAV systems, robotics, computer vision and AI engineering fundamentals.
 
+🔬 Research Interests
 
-I'm looking forward to meeting more like-minded people, learning and exploring the world of technology together.
+My current research mainly focuses on:
+
+Embodied AI training pipelines — policy learning, behavior generation, spatial reasoning
+
+3D Gaussian Splatting (3DGS) reconstruction & simulation scene generation
+
+Multimodal VLA models for robotic perception & action
+
+Real-to-Sim-to-Real (R2S2R) validation in open-world settings
+
+I emphasize conceptual understanding, algorithm insight, and reproducible engineering.
+
+🛠️ Skills (Direction-Level)
+
+Programming: Python, C++, basic engineering workflows
+
+Machine Learning: training pipelines, frameworks, model reproduction
+
+3D Vision: 3DGS, reconstruction concepts, common toolchains
+
+Embodied AI & Robotics: basic simulators and VLA model reproduction
+
+Engineering: GPU environment setup, dependency management, research codebases
+
+📂 Project & Practice Areas
+
+Embodied task design & imitation-learning reproduction (DISCOVERSE / ACT)
+
+3DGS reconstruction & scene generation reproduction (VGGT / COLMAP / gsplat)
+
+VLA model inference reproduction (MiMo-Embodied / π0 series)
+
+AI, vision, and system-engineering tasks from courses and research
+
+📬 Contact
+
+Feel free to reach out for academic discussion or collaboration:
+
+GitHub: xyys2003
+
+Email: wu-jz25@mails.tsinghua.edu.cn(2715611905@qq.com)
